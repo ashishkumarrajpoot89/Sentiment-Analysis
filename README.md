@@ -45,7 +45,7 @@ Example:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/sentiment-analysis.git
+   https://github.com/ashishkumarrajpoot89/Sentiment-Analysis.git
    cd sentiment-analysis
 Create virtual environment (optional)
 
