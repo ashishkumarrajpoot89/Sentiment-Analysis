@@ -17,7 +17,7 @@ A machine learning project that classifies text into positive, negative, or neut
 
 ## 🗂️ Dataset
 
-- Source: [Your dataset source here – e.g., Kaggle, Twitter API]
+- Source: Kaggle, Twitter API
 - Format: CSV with columns like `Text`, `Sentiment`
 
 Example:
